@@ -1,3 +1,3 @@
-print("Hello, World!")
-str name = 'ell'
+print("\nHello, World!")
+name = 'ell'
 print("Hello, " + name)
